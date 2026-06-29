@@ -1,4 +1,4 @@
 ---
 title: Limblock Wiki
 ---
-- [[content/items/weapon/index|Оружие]]
+- [[weapon|Оружие]]
